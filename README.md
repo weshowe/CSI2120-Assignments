@@ -1,6 +1,8 @@
 # CSI2120-Assignments
 Assignments/Labs for the University of Ottawa course CSI2120 (Programming Paradigms) 
 
+Labs: Lab assignments. Contains instructions for each lab, with source code files in the 'src' directories.
+
 Knapsack Problem: Solutions to the Knapsack Problem, written in 4 languages (Java, Go, Prolog, Scheme)
 
 ->Java Version
